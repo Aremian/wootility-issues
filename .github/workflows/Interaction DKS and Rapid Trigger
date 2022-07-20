@@ -1,0 +1,27 @@
+---
+name: Bind key whenever Rapid Trigger turns into red (deactivates the key)
+About: 
+The moment in which Rapid Trigger deactivates (key turns into red) and then write another bind when that event happens. Kind of like DKS but instead of fixed 1.5. mm release, using the deactivation point of Rapid Trigger
+Whenever Rapid Trigger deactivates, i want to send the opposite input of movement key for counter strafing.
+Example:
+Like: A... Deactivates RT... send D .
+
+labels: enhancement, interaction DKS and Rapid Trigger.
+
+---
+
+**Describe the solution you'd like**
+Already described.
+Describe alternatives or workarounds you've considered**
+Detect the event when Rapid Trigger deactivates (switch turns into red) and as soon as that happens write the other bind selected by the user.
+
+
+
+**Platform information**
+e.g. Windows 10
+
+**Wootility and Firmware version**
+Find in your Wootility Settings
+
+**Keyboard Type**
+e.g. Wooting 60 HE, Two HE.
